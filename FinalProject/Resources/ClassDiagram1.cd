@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FinalProject.Backend.Model.Automobiles">
+    <Position X="7" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Backend\Model\Automobiles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Backend.Model.Car">
+    <Position X="4.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Backend\Model\Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Backend.Model.Motorcycle">
+    <Position X="12.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Backend\Model\Motorcycle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Backend.Model.Vans">
+    <Position X="9.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Backend\Model\Vans.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Backend.Model.Vehicle">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAAhAAAAAAAgAACAAA=</HashCode>
+      <FileName>Backend\Model\Vehicle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
